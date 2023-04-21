@@ -17,3 +17,12 @@ h6 {
   font-weight: 300;
   font-style: italic;
 }
+
+.bg-main {
+  background: rgb(74, 0, 91);
+  background: linear-gradient(
+    0deg,
+    rgba(74, 0, 91, 1) 0%,
+    rgba(0, 113, 149, 1) 100%
+  );
+}

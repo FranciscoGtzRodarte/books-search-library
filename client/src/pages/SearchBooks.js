@@ -78,7 +78,7 @@ const SearchBooks = () => {
 
   return (
     <>
-      <div className="text-light bg-dark pt-5">
+      <div className="text-light bg-main p-5">
         <Container>
           <h1>Search for Books!</h1>
           <Form onSubmit={handleFormSubmit}>
